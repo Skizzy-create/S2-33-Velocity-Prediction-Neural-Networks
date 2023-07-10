@@ -1,7 +1,11 @@
+Certainly! Here's the updated version of the readme file with the license section and the updated code results comparison section:
+
 # S2-33 Velocity Prediction Neural Networks 🚀
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Code Size](https://img.shields.io/github/languages/code-size/yourusername/yourrepository)
+![Code Size](https://img.shields.io/github/languages/code-size/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks)
+![Repo Size](https://img.shields.io/github/repo-size/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks)
+![File Count](https://img.shields.io/github/directory-file-count/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks)
 
 ## 🚀 Project Overview
 🌌 The S2-33 Velocity Prediction Neural Networks project aims to develop an out-of-this-world predictive model for estimating the velocity of a rocket during its exhilarating launch phase. Brace yourself for an intergalactic journey as we dive into the depths of neural networks to unlock the secrets of rocket velocity prediction!
@@ -48,13 +52,15 @@ Our interstellar journey has yielded astonishing results! The trained neural net
 
 ### Code Results Comparison
 
-#### Unsorted Velocity Comparison
-<img width="400" alt="Unsorted Velocity Comparison" src="https://github.com/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks/assets/112803348/443e5fb1-eca6-44de-8a7b-cbe4d9f34564">
+<p float="left">
+  <img src="https://github.com/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks/assets/112803348/915ab68e-09ef-42f8-8c7d-5abdc9d9cc6b" width="400" />
+  <img src="https://github.com/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks/assets/112803348/5f45897e-a59b-4a98-9dbe-4b59e4eaced6" width="400" /> 
+</p>
 
-#### Sorted Velocity Comparison
-<img width="400" alt="Sorted Velocity Comparison" src="https://github.com/Skizzy-create/S2-33-Velocity-Prediction-Neural-Networks/assets/112803348/54602aa4-be62-479f-8087-2baa5e9be377">
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 👩‍🚀 Conclusion
+👩‍🚀 Conclusion
 Congratulations, intrepid explorer of neural networks and rocket velocity prediction! You've completed the epic journey of the S2-33 Velocity Prediction Neural Networks project. Armed with your newfound knowledge
 
 , visualization tools, and cosmic insights, you're now ready to conquer new challenges and navigate uncharted territories in the vast universe of machine learning.
